@@ -1,8 +1,1 @@
-
-export default function Footer() {
-  return (
-    <footer className="container-max py-10 text-sm text-muted">
-      © Solstice Luxe Travel — All rights reserved.
-    </footer>
-  );
-}
+export default function Footer(){return(<footer className='container-max py-10 text-sm text-[color:var(--muted,#b7b9c7)]'>© Solstice Luxe Travel — All rights reserved.</footer>)}
